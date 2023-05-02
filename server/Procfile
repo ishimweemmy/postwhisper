@@ -1,0 +1,1 @@
+web: gunicorn oreDigital.wsgi --log-file -
